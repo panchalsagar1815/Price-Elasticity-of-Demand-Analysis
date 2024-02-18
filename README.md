@@ -1,6 +1,4 @@
-# Price
-
-**Project: Plastic Elasticity of Demand Analysis**
+# **Project: Plastic Elasticity of Demand Analysis**
 
 **Objective:**
 The project aims to analyze the plastic elasticity of demand by exploring the relationship between quantity and price over time. The dataset includes features such as year, quarter, quantity, and price. The primary focus is on forecasting future demand based on historical data and understanding the factors influencing plastic demand elasticity.
