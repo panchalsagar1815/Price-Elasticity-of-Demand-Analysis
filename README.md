@@ -6,7 +6,7 @@
 The project aims to analyze the plastic elasticity of demand by exploring the relationship between quantity and price over time. The dataset includes features such as year, quarter, quantity, and price. The primary focus is on forecasting future demand based on historical data and understanding the factors influencing plastic demand elasticity.
 
 **Data Processing:**
-1. **Data Cleaning:** The dataset underwent thorough cleaning to handle missing values, outliers, and ensure data integrity.
+1. **Data Cleaning:** The dataset underwent thorough cleaning to handle missing values, and outliers, and ensure data integrity.
 2. **Data Visualization (EDA):** Exploratory Data Analysis (EDA) techniques were employed to visualize trends, patterns, and correlations within the dataset.
 3. **Preprocessing Techniques:**
    - **RobustScaler():** Used for scaling numerical features, ensuring robustness against outliers.
