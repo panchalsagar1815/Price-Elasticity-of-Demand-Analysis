@@ -1,4 +1,4 @@
-# Price-Elasticity-of-Demand-Analysis
+# Price-Elasticity-of-Demand
 
 **Project: Plastic Elasticity of Demand Analysis**
 
